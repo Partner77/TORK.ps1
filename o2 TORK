@@ -1,0 +1,42 @@
+No linha:2490 caractere:1
++ [CmdletBinding()]
++ ~~~~~~~~~~~~~~~~~
+Atributo 'CmdletBinding' inesperado.
+No linha:2491 caractere:1
++ param (
++ ~~~~~
+Token 'param' inesperado na expressão ou instrução.
+No linha:5475 caractere:51
++ ```powershell file="modulos/AgendamentoTarefas.ps1"
++                                                   ~
+A cadeia de caracteres não tem o terminador: ".
+No linha:5462 caractere:54
++         if ($instalar -eq "S" -or $instalar -eq "s") {
++                                                      ~
+'}' de fechamento ausente no bloco de instrução ou na definição de tipo.
+No linha:5454 caractere:89
++ ... rsaoMaisRecente -gt [version]$global:ConfiguracoesTORK.VersaoAtual) {
++                                                                         ~
+'}' de fechamento ausente no bloco de instrução ou na definição de tipo.
+No linha:5426 caractere:37
++ function Verificar-AtualizacoesTORK {
++                                     ~
+'}' de fechamento ausente no bloco de instrução ou na definição de tipo.
+No linha:4926 caractere:21
++             default {
++                     ~
+'}' de fechamento ausente no bloco de instrução ou na definição de tipo.
+No linha:4914 caractere:27
++         switch ($escolha) {
++                           ~
+'}' de fechamento ausente no bloco de instrução ou na definição de tipo.
+No linha:4888 caractere:8
++     do {
++        ~
+'}' de fechamento ausente no bloco de instrução ou na definição de tipo.
+No linha:5477 caractere:1
++ 
+Palavra-chave while ou until ausente no loop do.
+Nem todos os erros de análise foram indicados.  Corrija os erros indicados e tente de novo.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedAttribute
